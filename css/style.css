@@ -1,0 +1,77 @@
+.body{
+    background-image: url(../imagenes/fondo.jpg);
+
+}
+
+.fondoBarra{
+    background-color: rgb(125, 236, 236) !important;
+    font-family: 'Akaya Telivigala', cursive;
+    }
+
+    .logo > a{ 
+        font-size: 30px;
+        color: rgb(223, 25, 65) !important;
+    }
+
+    .logo1 > img{
+        border-radius: 100%;
+    }
+    .menu > a{
+         color: rgb(247, 125, 81) !important;
+         font-size: 20px;
+    }
+
+    .bloquetitulo1{
+        font-family: 'Russo One', sans-serif;
+        text-align: center;
+    }
+
+    .bloquetitulo2{
+        font-family: 'Russo One', sans-serif;
+        font-size: 25px;
+        
+    }
+
+    .parrafo{
+        font-family: 'Patrick Hand', cursive;
+        font-size: 18px;
+        color: rgb(97, 93, 93);
+        letter-spacing: 1px;
+    }
+
+    .parrafo1{
+        font-family: 'Patrick Hand', cursive;
+        font-size: 18px;
+        color: rgb(97, 93, 93);
+        letter-spacing: 1px;
+
+    }
+
+    .cita{
+        font-size: 8px;
+        font-family: cursive;
+    }
+
+    .img{
+        margin-left: 300px;
+    }
+
+    .footer-container{
+        width: 100%;
+        height: 50px;
+        background-color: lightslategray;
+        font-size: 10px;
+        letter-spacing: 1px;
+        color: rgb(16, 76, 145);
+        font-family: cursive;
+        text-align: center;
+    }
+    .right{
+        font-size: 10px;
+        letter-spacing: 1px;
+        color: rgb(16, 76, 145);
+        font-family: cursive;
+        text-align: center;
+    
+     }
+     
